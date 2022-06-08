@@ -102,6 +102,12 @@ Fake Facial Image: https://www.thispersondoesnotexist.com/
 | -------------| ------------- | ---------------   |
 | Onedrive Enumeration Tool | [Link](https://github.com/nyxgeek/onedrive_user_enum) | Checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company. |
 
+**Reddit**
+| Tool         | Link          | Description/Usage |
+| -------------| ------------- | ---------------   |
+| Reddit Reverse | [Link](https://www.reveddit.com/) | Reveal reddit's removed content |
+| Tool         | Link          | Description/Usage |
+
 **LinkedIn**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
@@ -109,11 +115,6 @@ Fake Facial Image: https://www.thispersondoesnotexist.com/
 | Tool         | Link          | Description/Usage |
 | Tool         | Link          | Description/Usage |
 
-**Reddit**
-| Tool         | Link          | Description/Usage |
-| -------------| ------------- | ---------------   |
-| Reddit Reverse | [Link](https://www.reveddit.com/) | Reveal reddit's removed content |
-| Tool         | Link          | Description/Usage |
 
 **Discord**
 | Tool         | Link          | Description/Usage |
