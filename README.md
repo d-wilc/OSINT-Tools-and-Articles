@@ -111,10 +111,8 @@ Fake Facial Image: https://www.thispersondoesnotexist.com/
 **LinkedIn**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-
+| Linkedin Profile Article| [Link](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf) | Article explaining all the information that can be used on a profile |
+| Anonymous Linkedin Viewing | [Link](https://www.osintguru.com/blog/linkedin-osint) | How to view a profile anonymously |
 
 **Discord**
 | Tool         | Link          | Description/Usage |
