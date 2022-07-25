@@ -106,7 +106,6 @@ Fake Facial Image: https://www.thispersondoesnotexist.com/
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Reddit Reverse | [Link](https://www.reveddit.com/) | Reveal reddit's removed content |
-| Tool         | Link          | Description/Usage |
 
 **LinkedIn**
 | Tool         | Link          | Description/Usage |
@@ -125,43 +124,36 @@ Fake Facial Image: https://www.thispersondoesnotexist.com/
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
+
 
 Spotify
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
 | Tool         | Link          | Description/Usage |
 
 **Strava**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
+
 
 **Instagram**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
+
 
 **Patreon**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
+
 
 **Github**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
-| Tool         | Link          | Description/Usage |
+
 
 
 
