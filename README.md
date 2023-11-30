@@ -24,6 +24,26 @@ Sock Puppet Creation Article: https://www.reddit.com/r/OSINT/comments/dp70jr/my_
 Fake Name/ID Generator: https://www.fakenamegenerator.com/  
 Fake Facial Image: https://www.thispersondoesnotexist.com/  
 
+### **Dorking URLS**   
+Publicly Exposed Documents - site:XXXXX.XXX ext:doc | ext:docx | ext:odt | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+Directory Listing Vulnerabilites - site:XXXXX.XXX intitle:index.of
+Configuration Files Exposed - site:XXXXX.XXX ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini | ext:env
+Database Files Exposed - site:XXXXX.XXX ext:sql | ext:dbf | ext:mdb
+Log Files Exposed - site:XXXXX.XXX ext:log
+Exposed Backup Files - site:XXXXX.XXX ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+Login pages - site:XXXXX.XXX inurl:login | inurl:signin | intitle:Login | intitle:"sign in" | inurl:auth
+SQL Errors - site:XXXXX.XXX intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()"
+PHP Errors / Warnings - site:XXXXX.XXX "PHP Parse error" | "PHP Warning" | "PHP Error"
+phpinfo() - site:XXXXX.XXX ext:php intitle:phpinfo "published by the PHP Group"
+Pastebin - site:pastebin.com | site:paste2.org | site:pastehtml.com | site:slexy.org | site:snipplr.com | site:snipt.net | site:textsnip.com | site:bitpaste.app | site:justpaste.it | site:heypasteit.com | site:hastebin.com | site:dpaste.org | site:dpaste.com | site:codepad.org | site:jsitor.com | site:codepen.io | site:jsfiddle.net | site:dotnetfiddle.net | site:phpfiddle.org | site:ide.geeksforgeeks.org | site:repl.it | site:ideone.com | site:paste.debian.net | site:paste.org | site:paste.org.ru | site:codebeautify.org  | site:codeshare.io | site:trello.com "XXXXX.XXX"
+Github Search - site:github.com | site:gitlab.com "XXXXX.XXX"
+StackOverflow - site:stackoverflow.com "XXXXX.XXX"
+Signup Pages - site:XXXXX.XXX inurl:signup | inurl:register | intitle:Signup
+Subdomains - site:*.XXXXX.XXX
+Sub-Subdomains - site:*.*.XXXXX.XXX
+Wayback Machine - web.archive.org/web/*/XXXXX.XXX/*
+Show Ip's - (talion.net) (site:*.*.29.* |site:*.*.28.* |site:*.*.27.* |site:*.*.26.* |site:*.*.25.* |site:*.*.24.* |site:*.*.23.* |site:*.*.22.* |site:*.*.21.* |site:*.*.20.* |site:*.*.19.* |site:*.*.18.* |site:*.*.17.* |site:*.*.16.* |site:*.*.15.* |site:*.*.14.* |site:*.*.13.* |site:*.*.12.* |site:*.*.11.* |site:*.*.10.* |site:*.*.9.* |site:*.*.8.* |site:*.*.7.* |site:*.*.6.* |site:*.*.5.* |site:*.*.4.* |site:*.*.3.* |site:*.*.2.* |site:*.*.1.* |site:*.*.0.*)
+
 ### **Dorking Information**
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
@@ -153,6 +173,8 @@ Spotify
 | Tool         | Link          | Description/Usage |
 | -------------| ------------- | ---------------   |
 | Tool         | Link          | Description/Usage |
+
+
 
 
 
